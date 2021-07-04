@@ -1,2 +1,2 @@
-# python_basics
-Challenge problems solved as Code With AnitaB Python track assignments (summer 2020)
+# Python Basics
+22 challenge problems solved as Code With AnitaB Python track assignments (summer 2020)
